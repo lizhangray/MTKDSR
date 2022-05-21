@@ -2,7 +2,7 @@
 
 ## Multi-Teacher Knowledge Distillation for Super Resolution Image Reconstruction 
 
-## Command
+## Run
 
 ```shell
 python main.py --model_name S_Model --checkpoint None --train_by_TT True --t1_model_name T1 --t1_checkpoint T1_C.pth --t2_model_name T--t1_checkpoint T2_C.pth 
@@ -13,14 +13,49 @@ python main.py --Train False
 # you can set the test datasets in the main.py too.
 ```
 
-## Method
 
-### The traditional training methods of SISR(a and b). 
+## Citing 
 
-![Figure1](https://user-images.githubusercontent.com/37239596/169652716-e74f988e-f2b4-4d14-9317-882f56a5e92b.png)
+The code is free for academic/research purpose. Please kindly cite our work in your publications if it helps your research.  
 
-### Our Method.
-![Figure2](https://user-images.githubusercontent.com/37239596/169652762-e1ad5a84-ece4-40b4-babc-8ae2042e6131.png)
+```BibTeX
+@article{
+  title={Fast Region-Adaptive Defogging and Enhancement for Outdoor Images Containing Sky},
+  author={G. Yao, Z. Li, B. Bhanu, Z. Kang, Z. Zhong, Q. Zhang},
+  conference={The 26th International Conference on Pattern Recognition (ICPR)},
+  year={2022}
+}
+```
 
-## Experiment Result.
-![Figure3](https://user-images.githubusercontent.com/37239596/169652802-6b2df774-095d-4b1b-a742-8bbcb3b6841d.png)
+
+## Example
+**Comparison**
+![1](./Example/1.PNG)
+
+**Other**
+<div align=center>
+<center class="half">
+    <img src="./Example/2.jpg" width="400"/><img src="./Example/3.jpg" width="400"/></center></div>
+
+<div align=center>
+<center class="half">
+    <img src="./Example/4.jpg" width="400"/><img src="./Example/5.jpg" width="400"/></center></div>
+    
+<div align=center>
+<center class="half">
+    <img src="./Example/6.jpg" width="400"/><img src="./Example/7.jpg" width="400"/></center></div>
+    
+<div align=center>
+<center class="half">
+    <img src="./Example/8.jpg" width="400"/><img src="./Example/9.png" width="400"/></center></div>
+    
+<div align=center>
+<center class="half">
+    <img src="./Example/10.jpg" width="400"/><img src="./Example/11.png" width="400"/></center></div>
+    
+<div align=center>
+<center class="half">
+    <img src="./Example/12.png" width="400"/><img src="./Example/13.png" width="400"/></center></div>
+
+
+[![Page Views Count](https://badges.toozhao.com/badges/01F0MPA6GQQXGBJSVKT85C4PKT/green.svg)](https://badges.toozhao.com/stats/01F0MPA6GQQXGBJSVKT85C4PKT "Get your own page views count badge on badges.toozhao.com")
