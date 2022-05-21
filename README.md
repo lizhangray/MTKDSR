@@ -18,7 +18,7 @@ The code is free for academic/research purpose. Please kindly cite our work in y
 
 ```BibTeX
 @article{
-  title={Fast Region-Adaptive Defogging and Enhancement for Outdoor Images Containing Sky},
+  title={Multi-Teacher Knowledge Distillation for Super Resolution Image Reconstruction.},
   author={G. Yao, Z. Li, B. Bhanu, Z. Kang, Z. Zhong, Q. Zhang},
   conference={The 26th International Conference on Pattern Recognition (ICPR)},
   year={2022}
