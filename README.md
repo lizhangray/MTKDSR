@@ -15,7 +15,7 @@ python main.py --Train False
 
 ## Method
 
-### The traditional training methods of SISR. 
+### The traditional training methods of SISR(a and b). 
 
 ![Figure1](https://user-images.githubusercontent.com/37239596/169652716-e74f988e-f2b4-4d14-9317-882f56a5e92b.png)
 
