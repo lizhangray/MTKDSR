@@ -7,7 +7,7 @@
 ```shell
 
 # test
-python main.py --Train False
+python main.py --Train False --model_name RFDN --checkpoint MTKDSR.pth
 # you can set the test datasets in the main.py too.
 ```
 
