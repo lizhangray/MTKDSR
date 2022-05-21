@@ -5,8 +5,6 @@
 ## Run
 
 ```shell
-python main.py --model_name S_Model --checkpoint None --train_by_TT True --t1_model_name T1 --t1_checkpoint T1_C.pth --t2_model_name T--t1_checkpoint T2_C.pth 
-# you can set the setting in the main.py instead of in the shell command.
 
 # test
 python main.py --Train False
