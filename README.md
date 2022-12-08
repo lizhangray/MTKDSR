@@ -22,7 +22,7 @@ The code is free for academic/research purpose. Please kindly cite our work in y
   author={G. Yao, Z. Li, B. Bhanu, Z. Kang, Z. Zhong, Q. Zhang},
   conference={The 26th International Conference on Pattern Recognition (ICPR)},
   year={2022}
-  link={DOI: 10.1109/ICPR56361.2022.9956250}
+  link={DOI:10.1109/ICPR56361.2022.9956250}
 }
 ```
 
